@@ -46,4 +46,4 @@ def mostrar_boletin(boletinID: str, correoElectronico: str = Query(...)):
 
 if __name__ == "__main__":
     print("Servicio mostrador listo")
-    #listo
+    #listo demo 2
